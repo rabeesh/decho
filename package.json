@@ -1,0 +1,11 @@
+{
+  "name": "decho",
+  "version": "1.0.0",
+  "description": "Simple middlware library",
+  "main": "decho.js",
+  "scripts": {
+    "test": "decho \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rab <rabeeshkumar@gmail.com>",
+  "license": "MIT"
+}
